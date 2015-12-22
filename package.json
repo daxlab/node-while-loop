@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/daxlab/node-while-loop/issues"
   },
-  "homepage": "https://github.com/daxlab/node-while-loop#readme"
+  "homepage": "https://github.com/daxlab/node-while-loop#readme",
+  "dependencies": {
+    "bluebird": "^3.1.1"
+  }
 }
