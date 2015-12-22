@@ -1,0 +1,23 @@
+{
+  "name": "node-loop",
+  "version": "1.0.0",
+  "description": "A while loop alternative for Nodejs based on promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daxlab/node-while-loop.git"
+  },
+  "keywords": [
+    "while",
+    "loop"
+  ],
+  "author": "Mandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daxlab/node-while-loop/issues"
+  },
+  "homepage": "https://github.com/daxlab/node-while-loop#readme"
+}
