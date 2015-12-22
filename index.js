@@ -4,7 +4,7 @@
 
 var Promise = require('bluebird');
 var pw = {};
-pw.promiseWhile = function (condition, action) {
+pw.while = function (condition, action) {
     /* condition refers to a bool returning function which when returns false, breaks the loop.
      action refers to the task which needs to be iteratively performed
      */
