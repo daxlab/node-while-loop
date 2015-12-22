@@ -1,5 +1,5 @@
 {
-  "name": "node-loop",
+  "name": "node-while-loop",
   "version": "1.0.0",
   "description": "A while loop alternative for Nodejs based on promises.",
   "main": "index.js",
@@ -12,10 +12,11 @@
   },
   "keywords": [
     "while",
-    "loop"
+    "loop",
+    "iterate"
   ],
   "author": "Mandeep Singh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/daxlab/node-while-loop/issues"
   },
