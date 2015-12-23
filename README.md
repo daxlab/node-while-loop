@@ -1,6 +1,12 @@
 # node-while-loop
 A while loop alternative for Nodejs based on promises.
 
+## Install
+
+```
+$ npm install --save node-while-loop
+```
+
 ## Usage
 
 ```js
@@ -13,13 +19,24 @@ loop.while(function () {
     console.log(i);
     i++;
 });
+console.log('Hello Node!');
+
+/* Output
+Hello Node!
+1
+2
+3
+*/
 ```
 
 ## API
 
 ### while(condition, action)
 
-condition refers to a bool returning function which when returns false, breaks the loop.
+condition function refers to a bool returning function which when returns false, breaks the loop.
 
-action refers to the task which needs to be iteratively performed.
+action function refers to the task which needs to be iteratively performed.
 
+## License
+
+MIT © [Mandeep Singh](http://github.com/daxlab)
