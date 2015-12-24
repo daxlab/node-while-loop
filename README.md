@@ -1,4 +1,4 @@
-# node-while-loop
+# node-while-loop [![Build Status](https://travis-ci.org/daxlab/node-while-loop.svg?branch=master)](https://travis-ci.org/daxlab/node-while-loop)
 A while loop alternative for Nodejs based on promises.
 
 ## Install
