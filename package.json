@@ -1,6 +1,6 @@
 {
   "name": "node-while-loop",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A while loop alternative for Nodejs based on promises.",
   "main": "index.js",
   "scripts": {
