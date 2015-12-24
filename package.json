@@ -1,10 +1,10 @@
 {
   "name": "node-while-loop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A while loop alternative for Nodejs based on promises.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/demo1.js"
   },
   "repository": {
     "type": "git",
