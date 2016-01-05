@@ -39,7 +39,7 @@ action function refers to the task which needs to be iteratively performed.
 
 ## License
 
-MIT © [Mandeep Singh](http://github.com/daxlab)
+[MIT](http://daxlab.mit-license.org/) © [Mandeep Singh](http://github.com/daxlab)
 
 ## TODO
 
